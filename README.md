@@ -267,6 +267,8 @@ END
 
  
 ## Results of simulation :
+![painting lab exam](https://user-images.githubusercontent.com/87744906/204146418-826992ca-0377-4d16-923a-34c18fe31fc9.png)
+
  
  ### Result:
  To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
